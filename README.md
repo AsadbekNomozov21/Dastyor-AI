@@ -1,2 +1,2 @@
 # Dastyor-AI
-I have got demo version this project for startup.
+I have got demo version app this project for startup.
